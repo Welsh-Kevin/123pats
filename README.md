@@ -33,7 +33,7 @@ I'm a Cloud Computing student with a growing foundation in AWS, Python, and syst
 ## 🧠 What I'm Working On
 - AWS services: IAM, EC2, S3, CloudFront, GitHub Actions (CI/CD pipeline live)
 - Flask backend with yfinance integration and REST-style architecture
-- Linux systems and automation via KodeKloud labs
+- Linux systems administration via KodeKloud labs
 
 ## 🤝 Collaboration
 
